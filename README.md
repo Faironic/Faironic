@@ -14,6 +14,6 @@
 ![Discord](https://img.shields.io/badge/%3CFaiyaz%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 # Visitors count
-![Visitor Count](https://profile-counter.glitch.me/FAYAZ1201/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/FAIYAZ-AHMED-2006/count.svg)
 
 
