@@ -1,6 +1,4 @@
-# Hello world !
-
-- My name is Faiyaz
+- My name is Faiyaz Ahmed
 
 
 # I use :
