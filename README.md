@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Reach me :
-![Discord](https://discord.com/users/747337455782461482)
+![Discord](https://img.shields.io/badge/%3CFaiyaz%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 # Visitors count
 ![Visitor Count](https://profile-counter.glitch.me/FAYAZ1201/count.svg)
