@@ -1,6 +1,6 @@
 # FAIYAZ OP
 # 👋HI I AM FAIYAZ 👋
-I am a developer of discord bots I know javascript and html.
+I am a developer of discord bots I know javascript, html and NodeJS.
 # Heres my stats - <br >
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Faiyaz2006)
 # Languages and Tools that I use
