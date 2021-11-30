@@ -8,4 +8,4 @@ I am a developer of discord bots I know javascript, html and NodeJS.
 # TOP Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # My Streaks and contributions
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Faiyaz2006&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Faiyaz2006&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
