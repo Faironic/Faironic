@@ -1,4 +1,3 @@
-<h1 align="center">FAIYAZ OP</h1>
 # 👋HI I AM FAIYAZ 👋
 I am a developer of discord bots I know javascript, html and NodeJS.
 # DISCORD
