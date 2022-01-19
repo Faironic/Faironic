@@ -1,7 +1,7 @@
 <h1 align="center">FAIYAZ OP</h1>
 # 👋HI I AM FAIYAZ 👋
 I am a developer of discord bots I know javascript, html and NodeJS.
-# DISCORD
+# DISCORD - <br >
 ![Discord](https://discord.c99.nl/widget/theme-2/747337455782461482.png)
 # Heres my stats - <br >
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Faiyaz2006&theme=vision-friendly-dark)
