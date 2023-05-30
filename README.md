@@ -1,4 +1,4 @@
-# 👋HI I AM CYZER 👋
+# 👋HI I AM FAIYAZ 👋
 I develop discord bots and I know Java, JavaScript and much more cool languages.
 # DISCORD
 ![Discord](https://discord.c99.nl/widget/theme-2/747337455782461482.png)
