@@ -2,10 +2,7 @@
 I develop discord bots and I know Java, JavaScript, and many more cool languages.
 # DISCORD
 ![Discord](https://discord.c99.nl/widget/theme-2/747337455782461482.png)
-
-<a href="https://discord.com/users/747337455782461482" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/81440962496172032?bg=1f1f1f&borderRadius=5px">
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/747337455782461482)](https://discord.com/users/747337455782461482)
 
 # Here are my stats - <br >
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iFaiyaz&theme=vision-friendly-dark)
