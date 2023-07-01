@@ -10,7 +10,7 @@ I develop discord bots and I know Java, JavaScript, and many more cool languages
 ## Technologies and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/discord-api/discord-api.png" alt="Discord API" width="40" height="40"/> </a>
+<a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://discord.com/assets/6debd47ed13483642cf09e832ed0bc1b.png" alt="Discord API" width="40" height="40"/> </a>
 
 ## Connect with Me
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/747337455782461482)
