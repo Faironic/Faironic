@@ -13,7 +13,7 @@ I develop discord bots and I know Java, JavaScript, and many more cool languages
 ## Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/2006_faiyaz)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/faiyaz.io/)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/747337455782461482)](https://discord.com/users/747337455782461482)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/747337455782461482)
 
 ## My Streaks and Contributions
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iFaiyaz&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
