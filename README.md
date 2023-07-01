@@ -7,14 +7,12 @@ I develop discord bots and I know Java, JavaScript, and many more cool languages
 ## Here are my stats
 ![Faiyaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFaiyaz&theme=vision-friendly-dark)
 
-## Programming Languages that I know
+## Technologies and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
-## Technologies and Tools
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Discord API](https://img.shields.io/badge/-Discord%20API-5865F2?logo=discord&logoColor=white&style=flat)
+## Connect with Me
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)] [@faiyaz.io](https://www.instagram.com/faiyaz.io/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)] [@2006_faiyaz](https://twitter.com/2006_faiyaz)
 
-
-## My Streaks and contributions
+## My Streaks and Contributions
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iFaiyaz&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
