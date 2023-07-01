@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faiyaz! 👋
+# 👋 Hi, I'm Faiyaz!
 I'm a developer passionate about creating Discord bots and exploring cool programming languages.
 
 ## About Me
