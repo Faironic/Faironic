@@ -2,7 +2,7 @@
 I'm a developer passionate about creating Discord bots and exploring cool programming languages.
 
 ## About Me
-- 📚 Preparing for the Cambridge GCE O Level exam.
+- 📚 Preparing for the Cambridge O Level exam.
 - 💻 Currently focusing on developing Discord bots and applications.
 - 🌱 Learning new technologies and languages to expand my skills.
 - ⚡ Fun fact: I love exploring new programming languages and experimenting with unique projects.
