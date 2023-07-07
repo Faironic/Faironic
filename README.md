@@ -8,7 +8,7 @@ I'm a developer passionate about creating Discord bots and exploring cool progra
 - ⚡ Fun fact: I love exploring new programming languages and experimenting with unique projects.
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/747337455782461482?showDisplayName=true&hideBadges=true&borderRadius=30px&idleMessage=Hey!%20What's%20up!%20Welcome%20to%20my%20GitHub%20Profile...)](https://discord.com/users/747337455782461482)
+[![Discord Presence](https://lanyard.cnrad.dev/api/747337455782461482?showDisplayName=true&borderRadius=30px&idleMessage=Hey!%20What's%20up!%20Welcome%20to%20my%20GitHub%20Profile...)](https://discord.com/users/747337455782461482)
 
 ## Here are my stats
 ![Faiyaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFaiyaz&theme=vision-friendly-dark)
