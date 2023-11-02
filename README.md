@@ -22,6 +22,3 @@ Feel free to connect with me on social media!
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/747337455782461482)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/_.faiyaz206_/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/2006_faiyaz)
-
-## My Streaks and Contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=faironic)](https://git.io/streak-stats)
