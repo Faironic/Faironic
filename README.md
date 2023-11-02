@@ -24,4 +24,4 @@ Feel free to connect with me on social media!
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/2006_faiyaz)
 
 ## My Streaks and Contributions
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faironic&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=faironic)](https://git.io/streak-stats)
