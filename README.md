@@ -11,7 +11,7 @@ I'm a developer passionate about creating Discord bots and exploring cool progra
 [![Discord Presence](https://lanyard.cnrad.dev/api/747337455782461482?showDisplayName=true&borderRadius=30px&idleMessage=Hey!%20What's%20up!%20Welcome%20to%20my%20GitHub%20Profile...)](https://discord.com/users/747337455782461482)
 
 ## Here are my stats
-![Faironic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faironic&theme=vision-friendly-dark)
+![Faironic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faironic&theme=vision-friendly-dark)
 
 ## Technologies and Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
