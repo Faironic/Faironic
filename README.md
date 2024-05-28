@@ -2,7 +2,7 @@
 Welcome to my vibrant corner of the digital world, where code meets creativity!
 
 ## About Me
-- 📚 Preparing for the Cambridge O Level exam.
+- 🎓 Cambridge A Level candidate.
 - 💻 Currently focusing on developing [`@ddx.notes`](https://ddxnotes.xyz/).
 - 🌱 Learning new technologies and languages to expand my skills.
 - ⚡ Fun fact: I love exploring new programming languages and experimenting with unique projects.
