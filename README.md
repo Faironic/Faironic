@@ -5,7 +5,6 @@ Welcome to my vibrant corner of the digital world, where code meets creativity!
 - 🎓 Cambridge A Level candidate.
 - 💻 Currently focusing on developing [`@ddx.notes`](https://ddxnotes.com/).
 - 🌱 Learning new technologies and languages to expand my skills.
-- ⚡ Fun fact: I love exploring new programming languages and experimenting with unique projects.
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/747337455782461482?showDisplayName=true&borderRadius=30px&idleMessage=Hey!%20What's%20up!%20Welcome%20to%20my%20GitHub%20Profile...)](https://discord.com/users/747337455782461482)
@@ -22,4 +21,4 @@ Feel free to connect with me on social media!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/faironic/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/747337455782461482)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/_.faiyaz206_/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white&style=flat)](https://twitter.com/2006_faiyaz)
+[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat)](https://x.com/2006_faiyaz)
