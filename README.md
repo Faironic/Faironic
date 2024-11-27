@@ -19,7 +19,7 @@ Welcome to my vibrant corner of the digital world, where code meets creativity!
 ## Let's Connect!
 Feel free to connect with me on social media!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/faiyaz-ahmed-033922292/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/faironic/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/747337455782461482)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/_.faiyaz206_/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white&style=flat)](https://twitter.com/2006_faiyaz)
