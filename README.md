@@ -3,7 +3,7 @@ Welcome to my vibrant corner of the digital world, where code meets creativity!
 
 ## About Me
 - 🎓 Cambridge A Level candidate.
-- 💻 Currently focusing on developing [`@ddx.notes`](https://ddxnotes.com/).
+- 💻 Co-Founder of [`@ddx.notes`](https://ddxnotes.com/).
 - 🌱 Learning new technologies and languages to expand my skills.
 
 ## Discord
