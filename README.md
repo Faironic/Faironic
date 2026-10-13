@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Faiyaz Ahmed!
 
 🎓 BSc Software Engineering student at **Asia Pacific University (APU), Malaysia**  
-💻 Co-Founder of [ddx.notes](https://ddxnotes.com/)  
+💻 Co-Founder of [DDX NOTES](https://ddxnotes.com/)  
 🚀 Exploring software development, networking, and cybersecurity.
 
 I'm a software engineering student passionate about technology, problem-solving, and building things that make a difference. Currently, I'm strengthening my programming fundamentals, exploring how computer networks work, and expanding my knowledge of software engineering.
