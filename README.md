@@ -26,10 +26,6 @@ I'm a software engineering student passionate about technology, problem-solving,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faironic&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-## 🎮 Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/747337455782461482?showDisplayName=true&borderRadius=30px&idleMessage=Hey!%20What's%20up!%20Welcome%20to%20my%20GitHub%20Profile...)](https://discord.com/users/747337455782461482)
-
 ## 🤝 Let's Connect!
 
 Feel free to reach out, collaborate, or connect with me!
