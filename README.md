@@ -16,16 +16,6 @@ I'm a software engineering student passionate about technology, problem-solving,
   <img src="https://skillicons.dev/icons?i=python,java,cs,js,nodejs,mongodb,cloudflare,git,github,vscode" alt="Python, Java, C#, JavaScript, Node.js, MongoDB, Cloudflare, Git, GitHub and VS Code" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Faironic&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faironic&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
 ## 🤝 Let's Connect!
 
 Feel free to reach out, collaborate, or connect with me!
