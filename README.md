@@ -22,7 +22,7 @@ Feel free to reach out, collaborate, or connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/faiyaz-ahmed-oyon/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/747337455782461482)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/faiyaz.ae)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/faiyaz_oyon)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat)](https://x.com/2006_faiyaz)
 
 ---
