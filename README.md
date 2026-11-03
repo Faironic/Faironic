@@ -13,7 +13,7 @@ I'm a software engineering student passionate about technology, problem-solving,
 *Technologies I've explored and am continuing to develop my skills in.*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,nodejs,mongodb,cloudflare,git,github,vscode" alt="Python, Java, C#, JavaScript, Node.js, MongoDB, Cloudflare, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,nodejs,mongodb,postgres,docker,cloudflare,git" alt="Python, Java, C#, JavaScript, Node.js, MongoDB, MySQL, Cloudflare and Git" />
 </p>
 
 ## 🤝 Let's Connect!
